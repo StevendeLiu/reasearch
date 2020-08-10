@@ -37,8 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
-<html>
-<head>
+
+
 <style>
 table {
   font-family: arial, sans-serif;
@@ -56,8 +56,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-</html>
 
 ## 常用杂志2014-2019年影响因子及最新分区
 <table border=0 cellpadding=0 cellspacing=0 width=512 style='border-collapse: 
